@@ -31,11 +31,15 @@ Summary dashboards for decision-level visibility
 
 ## Key Analyses:
 
-Regional patterns: Top states and districts
-Gender & age insights: Lifecycle-driven updates
-Time trends: Campaign-based vs baseline activity
-Anomaly detection: IQR-based over/under-performing regions
-Summary dashboards: High-level monitoring metrics
+Regional patterns: Top states and districts.
+
+Gender & age insights: Lifecycle-driven updates.
+
+Time trends: Campaign-based vs baseline activity.
+
+Anomaly detection: IQR-based over/under-performing regions.
+
+Summary dashboards: High-level monitoring metrics.
 
 
 ## 1. Aadhaar Enrolment Analysis
