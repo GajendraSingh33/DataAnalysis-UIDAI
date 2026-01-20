@@ -12,8 +12,11 @@ All analysis is implemented in **Python** using **Jupyter notebooks**.
 UIDAI faces three key operational challenges:
 
 Uneven Aadhaar enrolment and update coverage across states and districts
+
 Ageing demographic and biometric data due to migration, lifecycle changes, and wear
+
 Hidden authentication risk, especially in regions with low update activity
+
 These issues are not always visible through raw counts or operational dashboards.
 
 
@@ -23,9 +26,13 @@ Instead of treating enrolments and updates as isolated transactions, this projec
 The solution framework includes:
 
 Regional aggregation at state and district levels
+
 Age-group analysis to capture lifecycle-driven updates
+
 Time-series trends to identify campaign-driven spikes
+
 Anomaly detection (IQR method) to flag under- and over-performing regions
+
 Summary dashboards for decision-level visibility
 
 
