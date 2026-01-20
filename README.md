@@ -5,7 +5,6 @@ The goal is to uncover **regional patterns**, **time-based trends**, **age-wise 
 
 All analysis is implemented in **Python** using **Jupyter notebooks**.
 
----
 
 
 ## Problem Statement:
@@ -28,6 +27,16 @@ Age-group analysis to capture lifecycle-driven updates
 Time-series trends to identify campaign-driven spikes
 Anomaly detection (IQR method) to flag under- and over-performing regions
 Summary dashboards for decision-level visibility
+
+
+## Key Analyses:
+
+Regional patterns: Top states and districts
+Gender & age insights: Lifecycle-driven updates
+Time trends: Campaign-based vs baseline activity
+Anomaly detection: IQR-based over/under-performing regions
+Summary dashboards: High-level monitoring metrics
+
 
 ## 1. Aadhaar Enrolment Analysis
 
