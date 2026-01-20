@@ -7,7 +7,8 @@ All analysis is implemented in **Python** using **Jupyter notebooks**.
 
 ---
 
-Problem Statement:
+
+## Problem Statement:
 
 UIDAI faces three key operational challenges:
 
@@ -16,7 +17,8 @@ Ageing demographic and biometric data due to migration, lifecycle changes, and w
 Hidden authentication risk, especially in regions with low update activity
 These issues are not always visible through raw counts or operational dashboards.
 
-Solution Approach:
+
+## Solution Approach:
 
 Instead of treating enrolments and updates as isolated transactions, this project analyzes them as signals of population behavior, data ageing, and service stress.
 The solution framework includes:
